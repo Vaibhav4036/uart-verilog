@@ -84,4 +84,4 @@ This project is open-source. Feel free to use and modify it for learning or deve
 
 ## 👤 Author
 
-**Vaibhav4036**
+**Vaibhav Tiwari**
